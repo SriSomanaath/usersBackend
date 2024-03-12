@@ -1,17 +1,17 @@
 akangksha@bigvisionai.org:
-  FirstName: Sreenath
+  FirstName: Akangksha
   ID: c161dea9-d089-11ee-9a3c-02142eb0dc9
   LastName: Rawal
   Role: Sales_User
-  MinTimeInHours: 10
-  MaxTimeInHours: 10
+  MinTimeInHours: '6'
+  MaxTimeInHours: 1.02
   SlackEmail: ls-akangksha-aaaamfsrp34cq2fecxd3cl5u4@bigvisionai.slack.com
 amratansh@bigvisionai.org:
   FirstName: Amratansh
   ID: 167e47a0-9c0b-11ee-89b1-028a088be96
   LastName: ''
   Role: Sales_User
-  MinTimeInHours: -6.5
+  MinTimeInHours: '3'
   MaxTimeInHours: 12.5
   SlackEmail: ls-amratansh-aaaalr5g4fnzpevoj32re5iy4@bigvisionai.slack.com
 anjana@bigvisionai.org:
@@ -19,7 +19,6 @@ anjana@bigvisionai.org:
   ID: e2fcf2f6-6c29-11ee-814d-028a088be96
   LastName: Agarwal
   Role: Marketing_User
-  MinTimeInHours: -16
   MaxTimeInHours: 12.5
 deb@bigvision.org:
   FirstName: Debopriyo
