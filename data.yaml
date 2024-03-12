@@ -3,8 +3,8 @@ akangksha@bigvisionai.org:
   ID: c161dea9-d089-11ee-9a3c-02142eb0dc9
   LastName: Rawal
   Role: Sales_User
-  MinTimeInHours: 1.01
-  MaxTimeInHours: 1.02
+  MinTimeInHours: 10
+  MaxTimeInHours: 10
   SlackEmail: ls-akangksha-aaaamfsrp34cq2fecxd3cl5u4@bigvisionai.slack.com
 amratansh@bigvisionai.org:
   FirstName: Amratansh
